@@ -1,1 +1,1 @@
-# nathankirui.gitub.io
+# nathankirui.github.io
