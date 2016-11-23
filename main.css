@@ -1,7 +1,8 @@
 body {
     margin: 60px auto;
     width: 50%;
-    }
+    background: #E0E0E0; 
+}
 
 .nav{
     border:2px solid #ccc;
@@ -27,7 +28,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1{
+h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
