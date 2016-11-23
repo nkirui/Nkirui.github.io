@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 50%;
-    background: #E0E0E0; 
+    background-color: #E0E0E0; 
 }
 
 .nav{
@@ -29,7 +29,7 @@ a:hover {
     text-decoration: underline;
 }
 h3{
-    font-size: 2em;
+    font-size: 1.2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p a{
