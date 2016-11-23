@@ -2,21 +2,22 @@ body {
     margin: 60px auto;
     width: 50%;
 }
-.nav{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    margin:0px;
-    list-style: none;
-    font-weight: bold;
-    display:inline-block;
-    text-align:left;
-    
-}
-.nav li {
-	display:inline-block;
-	float: left;
-	margin-right: 1px;
 
+.nav{
+    border:2px solid #ccc;
+    border-width:2px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    }
+.nav li{
+    display:inline;
+}
+
+.nav a{
+    display:inline-block;
+    padding:10px;
 }
 
 a {
@@ -30,10 +31,10 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+p a{
+    font-size: 1.2em;
+    line-height: 1.2em;
+    color: #ED752B;
 }
 footer {
     border-top: 1px solid #d5d5d5;
